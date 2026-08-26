@@ -10,12 +10,12 @@ Coming from 6+ years in the networking industry, I bring deep knowledge of enter
 
 | Category           | Technologies                                               |
 | ------------------- | ----------------------------------------------------------- |
-| **Data & Stats**    | Python (Pandas, NumPy, Matplotlib, Seaborn, PySpark) · Statistical Testing (t-test, z-test, chi-square) |
+| **Data & Stats**    | Python (Pandas, NumPy, Matplotlib, Seaborn, PySpark) · Stats Testing (t-test, z-test, chi2) |
 | **Databases**       | SQL (EDA, Cohorts, CTEs, Window Functions) · Spark SQL · Snowflake · PostgreSQL |
 | **BI & Visualization** | Power BI (DAX) · Tableau · Looker · Excel                          |
 | **DevOps & Tools**  | Git, uv, GitHub, Bash, Linux Admin, Postman, Docker               |
 | **ITSM Platforms**  | ServiceNow, Salesforce, Active Directory                    |
-| **Cloud**  | AWS S3, Redshift, EC2, CloudTrail, VPC, IAM, Databricks                   |
+| **Cloud**  | AWS S3, Redshift, EC2, Lambda, CloudTrail, VPC, IAM, Databricks                   |
 
 ---
 
