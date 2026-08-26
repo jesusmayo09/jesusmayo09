@@ -2,7 +2,7 @@
 
 **Data Analyst** | Turning messy datasets into actionable insights and business decisions
 
-Coming from 6+ years in the networking industry, I bring deep knowledge of enterprise/data center infrastructure into how I approach data — I use SQL, Python, and BI tools to extract, transform, and load (ETL) data into interactive dashboards and data-driven stories that guide business decisions.
+Coming from 6+ years in the networking industry, I bring deep knowledge of enterprise/data center infrastructure into how I approach data — I use SQL, Python, and BI tools to Extract, Transform, and Load (ETL) data into interactive dashboards and data-driven stories that guide business decisions.
 
 ---
 
